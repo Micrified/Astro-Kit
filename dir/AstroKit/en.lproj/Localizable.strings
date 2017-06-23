@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  AstroKit MenuWorks
+
+  Created by Katherine Randolph on 5/15/15.
+  Copyright (c) 2015 Unisung Softworks. All rights reserved.
+*/
+
+// AstroKit: Menu
+"Play" = "Play";
+"Discover" = "Discover";
+"Credits" = "Credits";
+"Settings" = "Settings";
+"Return" = "Return";
+// AstroKit: Settings
+"User Experience" = "User Experience";
+"Game Settings" = "Game Settings";
+"Destroy objects on impact" = "Destroy objects on impact";
+// AstroKit: Credits
+
+// AstroKit: Discover
+"Planets" = "Planets";
+"Moons" = "Moons";
+"Stars" = "Stars";
+
+// AstroKit: Discover > Stars
+"The Sun" = "The Sun";
+"Alpha Centauri" = "Alpha Centauri";
+"Barnard's Star" = "Barnard's Star";
+"Wolf 359" = "Wolf 359";
+"Lalande 21185" = "Lalande 21185";
+"Sirius" = "Sirius";
+
+// AstroKit: Discover > Planets
+"Mercury" = "Mercury";
+"Venus" = "Venus";
+"Earth" = "Earth";
+"Mars" = "Mars";
+"Jupiter" = "Jupiter";
+"Saturn" = "Saturn";
+"Uranus" = "Uranus";
+"Neptune" = "Neptune";
+
+// AstroKit: Discover > Moons
+"The Moon" = "The Moon";
+"Europa" = "Europa";
+"Io" = "Io";
+"Ganymede" = "Ganymede";
+"Callisto" = "Callisto";
+"Amalthea" = "Amalthea";
+"Pasiphae" = "Pasiphae";
+"Ananke" = "Anake";
+"Carme" = "Carme";
+
+"Titan" = "Titan";
+"Enceladus" = "Enceladus";
+"Rhea" = "Rhea";
+"Lapetus" = "Lapetus";
+"Dione" = "Dione";
+"Tethys" = "Tethys";
+"Mimas" = "Mimas";
+"Hyperion" = "Hyperion";
+
+"Titania" = "Titania";
+"Triton" = "Triton";
+"Miranda" = "Miranda";
+"Ariel" = "Ariel";
+"Oberon" = "Oberon";
+"Umbriel" = "Umbriel";
+
+
+

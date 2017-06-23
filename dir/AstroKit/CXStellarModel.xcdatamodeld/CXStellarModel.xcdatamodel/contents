@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7549" systemVersion="14D136" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CXLanguageAsset" representedClassName="CXLanguageAsset" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="language" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CXStellarObject" inverseName="language" inverseEntity="CXStellarObject" syncable="YES"/>
+    </entity>
+    <entity name="CXStellarObject" representedClassName="CXStellarObject" syncable="YES">
+        <attribute name="descriptor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="language" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CXLanguageAsset" inverseName="language" inverseEntity="CXLanguageAsset" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CXStellarObject" positionX="-63" positionY="-18" width="128" height="120"/>
+        <element name="CXLanguageAsset" positionX="-54" positionY="18" width="128" height="75"/>
+    </elements>
+</model>

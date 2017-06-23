@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CXTutorialChildViewController">
+            <connections>
+                <outlet property="descriptionLabel" destination="C4F-ds-Xvj" id="tSw-07-erm"/>
+                <outlet property="imageView" destination="yus-20-zex" id="LjH-eP-fff"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="fIo-Zb-8vf"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="yus-20-zex">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="502"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Description" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="C4F-ds-Xvj">
+                    <rect key="frame" x="0.0" y="510" width="320" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="B11-Ux-BK7"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                    <color key="textColor" red="0.94901960780000005" green="0.94901960780000005" blue="0.94901960780000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="0.23434930098684212" green="0.32671155427631576" blue="0.68194901315789469" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="yus-20-zex" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Jn2-84-YSd"/>
+                <constraint firstItem="C4F-ds-Xvj" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="TQC-MN-rCh"/>
+                <constraint firstItem="yus-20-zex" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="mym-rB-7nr"/>
+                <constraint firstItem="C4F-ds-Xvj" firstAttribute="top" secondItem="yus-20-zex" secondAttribute="bottom" constant="8" id="uMu-Nl-zHL"/>
+                <constraint firstAttribute="bottom" secondItem="C4F-ds-Xvj" secondAttribute="bottom" constant="8" id="uto-an-AFV"/>
+                <constraint firstAttribute="trailing" secondItem="C4F-ds-Xvj" secondAttribute="trailing" id="vKn-6k-EaW"/>
+                <constraint firstAttribute="trailing" secondItem="yus-20-zex" secondAttribute="trailing" id="vqo-Lk-iDV"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="60" y="-44"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Mercury</string>
+		<key>ImageName</key>
+		<string>NASA_Mercury</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 2439 KM&lt;br /&gt;MASS: 3.301x10&lt;sup&gt;23&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Mercury&lt;/h1&gt;
+ 
+		&lt;p&gt;Mercury is both the first, and smallest planet in our Solar System. Barely larger than Earth&apos;s Moon, Mercury&apos;s gravitational acceleration is a meager 2.7m/s&lt;sup&gt;2&lt;/sup&gt;. Despite its small size, Mercury does have a thin exosphere made up mostly of oxygen, sodium, hydrogen, helium, and potassium. Being the closest planet to the Sun, Mercury endures extreme temperatures of up to 427&lt;sup&gt;o&lt;/sup&gt; Celsius, with lows of -173&lt;sup&gt;o&lt;/sup&gt; Celsius. Like most planets in the Solar System, it bears the name of a Roman God. Mercury was the Roman God of commerce, and was worshipped by merchants who desired success in their trades. The surface of Mercury is mostly scarred by impact craters, and lobe-shaped scarps or cliffs. Though recent observations have shown Mercury may have some water ice inside craters at its poles, it is largely a barren planet scorched by extreme temperatures and solar radiation.&lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Mercury has no natural satellites, but has been visited by the Mariner 10 space probe, and MESSENGER spacecraft. 
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Mercury&apos;s extreme temperatures, thin atmosphere, and weak magnetic field make it impossible for life to exist on the planet as we know it. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Venus</string>
+		<key>ImageName</key>
+		<string>NASA_Venus</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 6051 KM&lt;br /&gt;MASS: 4.867x10&lt;sup&gt;24&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Venus&lt;/h1&gt;
+ 
+		&lt;p&gt;Venus is the second planet in our Solar System, and the most similar to Earth in both size and mass. Only slightly smaller than Earth, gravitational acceleration on Venus&apos;s surface is 8.87m/s&lt;sup&gt;2&lt;/sup&gt;, a close comparison to Earth&apos;s 9.81m/s&lt;sup&gt;2&lt;/sup&gt;. Despite its similarities, Venus differs entirely when it comes to its environment. Due to a thick atmosphere made mostly of carbon dioxide, nitrogen, and sulfuric acid, Venus traps heat close to its surface, resulting in extreme temperatures of around 462&lt;sup&gt;o&lt;/sup&gt; Celsius. The heat and thick atmosphere have largely impeded attempts to observe its surface, and made landing probes unfeasible. Venus&apos;s name comes from the Roman Goddess Venus, known as the goddess of love and beauty. It carries this name because of its bright appearance in the sky to early astronomers.&lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Venus has no natural satellites, but has been host to more than 40 spacecraft. Though initial missions to Venus were largely accident ridden (Russian Venera 1, Venera 1964A, Venera 1964B, Zond 1, Venera 1965A, Venera 2, Venera 3, and American Mariner I), repeated attempts did see many successes. The American Mariner 2, Mariner 5, and Russian Venera 4 among the lot.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Venus&apos;s extreme temperatures and unbreathable atmosphere make it unsuitable for life as we know it. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Earth</string>
+		<key>ImageName</key>
+		<string>NASA_Earth</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 6371 KM&lt;br /&gt;MASS: 5.972x10&lt;sup&gt;24&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Earth&lt;/h1&gt;
+ 
+		&lt;p&gt;Earth is the third planet from the Sun, and the largest of all terrestrial planets in our Solar System. It has a surface acceleration of 9.81m/s&lt;sup&gt;2&lt;/sup&gt;, and a narrow temperature range of 58&lt;sup&gt;o&lt;/sup&gt; Celsius to -88&lt;sup&gt;o&lt;/sup&gt; Celsius. The narrow range of temperatures is largely owed to Earth&apos;s atmosphere, which traps energy radiated from the sun. It is mainly composed of oxygen and nitrogen, and is a crucial component to life on Earth&apos;s surface. Earth completes one rotation every twenty four hours, and revolves around the sun every 365 days. Earth&apos;s atmosphere is largely protected against erosion by a powerful magnetic field. This field is produced by both Earth&apos;s solid inner core and liquid outer core. Complex motions inside the outer core generate the planet&apos;s magnetism though a dynamo effect.&lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;The Earth has only one natural satellite, called The Moon. A heavily cratered, rocky satellite, The Moon is theorized to have originated from the debris of a collision between the Earth and a Mars sized body about 4.5 billion years ago. The moon has only a thin exosphere, and cannot sustain life. The moon is the only foreign body that has been walked on by humankind.
+
+		Earth also has numerous artificial satellites. About 1,100 total, with 2600 decommissioned or inactive satellites.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;The Earth is the only known planet in the universe to sustain life. Due to a favorable position from its nearest star, an oxygen and nitrogen atmosphere, abundance of water, and stable temperatures, Earth has given rise to all forms of life in both its oceans and on land. According to an estimate by the Census of Marine Life, Earth is believed to be home to:
+
+			7.77x10&lt;sup&gt;6&lt;/sup&gt; Animal species.
+		    2.98x10&lt;sup&gt;5&lt;/sup&gt; Plant species.
+		    6.11x10&lt;sup&gt;5&lt;/sup&gt; Fungi species.
+		    3.64x10&lt;sup&gt;4&lt;/sup&gt; Protozoa species. And
+		    2.75x10&lt;sup&gt;&lt;/sup&gt; Chromists species.
+
+		This estimate acknowledges that many more species have yet to be discovered or even described. Earth&apos;s most impactful being are Homo Sapiens. A species of the primate order, and of the Animalia kingdom, humans largely live in state societies. Advanced cities, technologies, complex institutions, and record keeping are among the most important of human achievements. Humans are also the only known life to have achieved nuclear fission and spaceflight. A scale proposed by Russian astronomer Nikolai Kardashev would describe humans at not having quite achieved a type I civilization (Out of III types). Kardashev&apos;s Type I civilization must be able to attain 4x10&lt;sup&gt;12&lt;/sup&gt; watts per second of power output. American theoretical physicist Michio Kaku suggests humans may achieve type I status in 100-200 years.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Mars</string>
+		<key>ImageName</key>
+		<string>NASA_Mars</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 3389 KM&lt;br /&gt;MASS: 6.417x10&lt;sup&gt;23&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Mars&lt;/h1&gt;
+ 
+		&lt;p&gt;Mars is the fourth planet from the Sun, and Earth&apos;s closest neighbor. Being considerably less massive than Earth, Mars has a surface gravitational acceleration of 3.71m/s&lt;sup&gt;2&lt;/sup&gt;. Despite being a smaller planet, Mars does have an atmosphere. Though long since stripped by solar winds, Mars&apos;s remaining atmosphere is composed mostly of carbon dioxide, nitrogen, and argon. Its distance from the Sun and inability to retain heat well means that temperatures on Mars range from a high of 20&lt;sup&gt;o&lt;/sup&gt; Celsius to a low of -153&lt;sup&gt;o&lt;/sup&gt; Celsius. Mars is named after the Roman God of war, mostly due to its reddish appearance created by iron oxide in its soil. Mars is an interesting planet to scientists as it is believed to have once resembled Earth in many ways. Large oceans are presumed to have once existed on its surface, though have since receded into its polar caps. Volcanoes, canyons, and even weather are all common occurances on Mars. However, the atmosphere is now too thin to sustain liquid water.&lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Mars has two natural satellites, its moons Phobos and Deimos. They are the smallest moons in the Solar System, and neither are larger than 30 KM in any dimension. Both are cratered moons in low orbit above Mars. In addition to these natural satellites come several artificial probes such as the Mars Orbiter Mission, Mars Reconnaissance Orbiter, among others. 
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Mars is an extremely promising location to look for evidence of life having existed beyond Earth. The possibility of once having a liquid ocean on its surface, and evidence of a warmer past environment suggest Mars might have been host to some microbial life. Because water is such an important component to life, various missions have been dispatched with the intent of discovering more geological evidence for the existence of liquid water.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Jupiter</string>
+		<key>ImageName</key>
+		<string>NASA_Jupiter</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Gaseous&lt;br /&gt;RADIUS: 69,911 KM&lt;br /&gt;MASS: 1.898x10&lt;sup&gt;27&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Jupiter&lt;/h1&gt;
+ 
+		&lt;p&gt;Jupiter is the fifth and largest planet in our Solar System. With a colossal equatorial circumference of 439,264 KM, it generates a gravitational surface acceleration of 24.79m/s&lt;sup&gt;2&lt;/sup&gt;, and is easily visible in the Earth&apos;s night sky. Jupiter is a gaseous planet and has no actual surface. Its atmosphere is mostly composed of hydrogen and helium, kept at cool temperatures estimated to be around -148&lt;sup&gt;o&lt;/sup&gt; Celsius. Despite having no actual surface, Jupiter is believed to have a solid core about the size of the Earth. Jupiter&apos;s name originates from the Roman God Jupiter. Jupiter was the god of sky and thunder, and the chief official god during the reign of the Roman Republic. Being the largest object in the sky, Jupiter was presumed to be the most powerful, and so was assigned its name. Jupiter&apos;s atmosphere is a constant stream of fast moving gases and currents. With winds of up to 618 KPH, it is believed that intense heat from Jupiter&apos;s interior plays some part in creating the massive storms that can be seen on its surface.&lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Jupiter has a total of 50 confirmed moons, with an additional 17 awaiting confirmation of discovery. It also boasts a faint ring system, and has been host to various artificial satellites such as the Pioneer, Voyager, Galileo, Ulysses, Cassini, and New Horizons spacecraft.  
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Jupiter&apos;s lack of a solid surface and volatile conditions make life impossible to exist as we know it. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Saturn</string>
+		<key>ImageName</key>
+		<string>NASA_Saturn</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Gaseous&lt;br /&gt;RADIUS: 58,232 KM&lt;br /&gt;MASS: 5.683x10&lt;sup&gt;26&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Saturn&lt;/h1&gt;
+ 
+		&lt;p&gt;Saturn is the sixth planet in our Solar System and the second largest too. With a surface area of about eighty three and a half Earths, Saturn has a gravitational acceleration of 10.4m/s&lt;sup&gt;2&lt;/sup&gt;. Its surprisingly low surface acceleration is due to its low density. It is in fact the least dense planet in the Solar System. Like Jupiter, and all other gaseous planets, Saturn does not possess an actual surface. It is instead mainly composed of hydrogen and helium, at a low temperature of about -178&lt;sup&gt;o&lt;/sup&gt; Celsius. Saturn is named after the Roman God Saturnus, a god of harvest and time, due to its slow movement across the sky compared to the other planets. Saturn is perhaps most well known for its large ring system, a collection of ice, dust, comet remains, asteroids, and various other particles. Broken up into sections, Saturn has three main rings. A, B, and C. Amazingly, its rings are only an average of 20 meters thick, despite stretching some 80,000 KM from Saturn&apos;s equator. &lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Saturn has a total of 53 moons, and has been visited by the Cassini, Huygens, Voyager, and Pioneer spacecraft.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Saturn cannot sustain life due to its hostile environment and lack of a solid surface. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Uranus</string>
+		<key>ImageName</key>
+		<string>NASA_Uranus</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Gaseous&lt;br /&gt;RADIUS: 25,362 KM&lt;br /&gt;MASS: 8.861x10&lt;sup&gt;25&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Uranus&lt;/h1&gt;
+ 
+		&lt;p&gt;Uranus is the seventh planet from the Sun, and is about fourteen and a half times more massive than Earth. Like most gas giants, Uranus is much less dense than Earth, and so has a gravitational acceleration of only 8.87m/s&lt;sup&gt;2&lt;/sup&gt;. Uranus is a cold planet, with temperatures averaging about -216&lt;sup&gt;o&lt;/sup&gt; Celsius. Being gaseous, Uranus has no actual surface, and is composed mainly of hydrogen, helium, and methane. Beneath its atmosphere lies a dense region of icy materials such as water, methane, and ammonia in a fluid like state. Finally, Uranus has a small rocky core at its center. Uranus is the only planet named after a Greek god, Ouranos. Its name was assigned to it by German astronomer Johann Bode.  &lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Uranus has a ring system, and some 27 moons. It has only been host to one foreign satellite, that being the Voyager II spacecraft.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Uranus cannot sustain life, as its hostile environment and lack of a surface make it unsuitable. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Neptune</string>
+		<key>ImageName</key>
+		<string>NASA_Neptune</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Gaseous&lt;br /&gt;RADIUS: 24,622 KM&lt;br /&gt;MASS: 1.024x10&lt;sup&gt;26&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Neptune&lt;/h1&gt;
+ 
+		&lt;p&gt;Neptune is the eighth planet in our Solar System, and a sister ice giant to its neighbor Uranus. Gravitational acceleration on Neptune is greater than that of Earths, at 11.15m/s&lt;sup&gt;2&lt;/sup&gt;. Neptune is mostly composed of water, ammonia, and methane, all surrounding what is believed to be a solid Earth sized core. Its atmosphere is mainly hydrogen, helium, and methane. Temperatures on Neptune are exceedingly cold, effectively -214&lt;sup&gt;o&lt;/sup&gt; Celsius, and the upper atmosphere is thrashed by supersonic winds. Neptune is named after the Roman God of the Sea due to its blue hue.&lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Neptune has a total of 13 moons, but no ring system. It has been host to only one foreign spacecraft, Voyager II. 
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Neptune is not believed to be host to any life. It is too cold and inhospitable to sustain it. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>planet</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Pluto</string>
+		<key>ImageName</key>
+		<string>NASA_Pluto</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 1151 KM&lt;br /&gt;MASS: 1.303x10&lt;sup&gt;22&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Pluto&lt;/h1&gt;
+ 
+		&lt;p&gt;Now classified as a dwarf-planet, Pluto is the ninth and last member of the Solar System. It orbits in the far out disk-like region of objects known as the Kuiper Belt, and is a very small dwarf-planet with a surface acceleration lower than that of Earth&apos;s Moon (0.66m/s&lt;sup&gt;2&lt;/sup&gt;)! Pluto&apos;s name has an interesting origin, as it is the only world to be named by an eleven year old girl. In 1930, Venetia Burney of Oxford, England, suggested to her grandfather that the recent discovery be called Pluto after the Roman god of the underworld. This was forwarded to an observatory where it eventually became Pluto&apos;s official name.  Like many terrestrial objects in the outer regions of the Solar System, Pluto is made mostly of ice and rock. Icy plains and shallow troughs cover its surface, though regions around the equator are mountainous with peaks of over 3500 meters. Due to its large distance from the Sun, surface temperatures are -233, to -223&lt;sup&gt;o&lt;/sup&gt; Celsius. This allows elements like nitrogen and methane to exist in solid states, and coat the surface of the dwarf-planet. Unknown to most, Pluto is not in fact a single dwarf-planet but rather a binary system involving itself and its largest moon Charon. This means they orbit each other around a point between the pair, rather than Charon solely orbiting Pluto.  &lt;/p&gt;
+
+		&lt;h1&gt;Satellites&lt;/h1&gt;
+
+		&lt;p&gt;Pluto has five moons. Its largest and most influential moon is called Charon, followed by Nix, Hydra, Keberos and Styx. It has no artificial satellites, though NASA&apos;s New Horizons probe performed a close flyby in July of 2015.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Recent data transmitted to Earth from the New Horizons space probe has defied previous predictions of Pluto being a geologically inactive body. Close-up images of Pluto&apos;s surface revealed segmented icy plains with patterns resembling that of dried mud on Earth. Due to the small size of Pluto and its partner moon Charon, gravitational forces were ruled out as a potential cause. This has lead scientists to hypothesize that Pluto is in fact geologically active, and interior heat is the driving force behind the surface patterns as well as the new (and growing) mountain ranges along the equator. Despite these unexpected and exciting discoveries, life is still not believed to exist on Pluto.  
+		&lt;/p&gt;
+
+		&lt;h1&gt;New Horizons&lt;/h1&gt;
+
+		&lt;p&gt;Prior to 2015, observations of Pluto had only been possible from afar, and so little was known about the surface of the dwarf-planet. This all changed in 2015 with the arrival of NASA&apos;s New Horizons space-probe, which completed the closest flyby of Pluto in history on the 14th of July. As of this moment, the New Horizons mission is ongoing, and more data about the dwarf-planet has yet to reach to be published on Earth.
+		&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+</array>
+</plist>

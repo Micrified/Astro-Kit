@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Type</key>
+		<string>star</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>The Sun</string>
+		<key>ImageName</key>
+		<string>NASA_Sun</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: G2V&lt;br /&gt;RADIUS: 695,508 KM&lt;br /&gt;MASS: 1.989x10&lt;sup&gt;30&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About the Sun&lt;/h1&gt;
+ 
+		&lt;p&gt;The Sun is the nearest star to Earth, and the center of our Solar System. It is mostly composed of hydrogen (92.1%), with helium filling in the remaining 7.8% of its mass. Held together by its own gravity, the Sun weights a colossal 1.989x10&lt;sup&gt;30&lt;/sup&gt; kilograms. This is about 330,000 times the mass of the Earth, and generates a gravitational acceleration of 274.0m/s&lt;sup&gt;2&lt;/sup&gt; at its surface. The gases that make up the Sun exist at extremely high temperatures. The surface temperature of the Sun, for instance, is 5,500&lt;sup&gt;o&lt;/sup&gt; Celsius. The Sun&apos;s immense size and heat are key to the development of life on Earth. Without its presence, the Earth would resemble one of the many moons of Uranus or Saturn. Icy, cold, and devoid of life. Its energy warms the oceans, and is converted into more accessible forms by the plants that live on our planet&apos;s surface. These plants produce oxygen and food for the rest of life on the planet. The Sun has long been recognized as an important component to human life, even in ancient history, where more primitive civilizations feared its disappearance during eclipses. Despite the innumerable benefits the Sun provides to the Earth, it is not without its dangers. The Sun ejects waves from all over the electromagnetic spectrum besides the visible one. This includes more dangerous gamma rays and X-rays. Both of these pose a danger to life that travels beyond Earth&apos;s powerful magnetic field, despite being 1.496x10&lt;sup&gt;9&lt;/sup&gt; kilometers away from the Sun.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;The Sun is constantly observed by spacecraft such as Genesis, SOHO, STEREO THERMIS, and many others. &lt;/p&gt;
+
+		&lt;h1&gt;Classification&lt;/h1&gt;
+
+		&lt;p&gt;The Sun is classified as a G2V type Star. The G2 denotes that the Sun is a cooler star on the Morgan-Keenan scale, with effective temperatures between 4726&lt;sup&gt;o&lt;/sup&gt; Celsius and 5726&lt;sup&gt;o&lt;/sup&gt; Celsius. The scale also accounts for luminosity, and indicates that the Sun is a yellow star. The numeral &apos;v&apos; indicates that the Sun is a main-sequence star, as it lies on the central band of stars on the Hetzprung-Russel Diagram. Like all stars in its class, the Sun&apos;s energy is produced through nuclear fusion.&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>star</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Alpha Centauri</string>
+		<key>ImageName</key>
+		<string>NASA_AlphaCentauri</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Constellation: (A: G2, B: K4, Proxima: M5e)&lt;br /&gt;RADIUS: A: 853,380 KM, B: 601,610 KM, Proxima: 100,810 KM &lt;br /&gt;MASS: A: 2.19x10&lt;sup&gt;30&lt;/sup&gt; KG, B: 1.69x10&lt;sup&gt;30&lt;/sup&gt; KG, Proxima: 2.45x10&lt;sup&gt;29&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About the Alpha Centauri System&lt;/h1&gt;
+ 
+		&lt;p&gt;Although its name might imply it is a single star, Alpha Centauri is in fact a system of three stars. Composed of Alpha Centauri A, Alpha Centauri B, and Alpha Centauri AB (Also known as Proxima Centauri), this stellar constellation is the closest system of stars to our Solar System. The constellation is sometimes referred to as a binary star system, largely due to the fact that the smallest star, Alpha Centauri AB, orbits far away from the other two (A distance of around 1.9x10&lt;sup&gt;12&lt;/sup&gt; KM). To the naked eye, the star system appears as a single bright star in the sky. The primary star in the system, Alpha Centauri A, is slightly larger and more luminous than our Sun. To reach this system at light speed would take someone about 4.26 years.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;No human spacecraft has ever visited the Alpha Centauri system, nor plans to do so in the foreseeable future. If a spacecraft were to travel at the fasest speeds ever attained by a human spacecraft, it would take it almost 17,500 years to get there.&lt;/p&gt;
+
+		&lt;h1&gt;Classification&lt;/h1&gt;
+
+		&lt;p&gt;Alpha Centauri A is classified similarly to the Sun, and is a G2 type star. Alpha Centauri B is slightly smaller than Earth, and has a spectral class of K4. Finally, Proxima Centauri carries a M5e classification. It is a much smaller, dimmer star than our own.&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>star</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Barnard&apos;s Star</string>
+		<key>ImageName</key>
+		<string>NASA_BarnardsStar</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: M4V&lt;br /&gt;RADIUS: 136,320 KM&lt;br /&gt;MASS: 2.86x10&lt;sup&gt;29&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Barnard&apos;s Star&lt;/h1&gt;
+ 
+		&lt;p&gt;Barnard&apos;s Star is the second closest star to the Sun after the Alpha Centauri star system. A low mass red dwarf, Barnard&apos;s Star is an extremely old star that has since lost most of its energy and luminosity. While the Sun is estimated to be around 4.5 billion years old, Barnard&apos;s Star is between 7 to 12 billion years old. The star is about 6 light years from Earth. It is not believed to have any planets.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;No human spacecraft has ever visited Barnard&apos;s Star, and none plan to do so in the near future. Though once believed to potentially host Earth like planets, Barnard&apos;s Star has since been revealed to have no desirable destinations for human spaceflight.&lt;/p&gt;
+
+		&lt;h1&gt;Classification&lt;/h1&gt;
+
+		&lt;p&gt;Barnard&apos;s Star is classified as an M4V star. The M denotes it is a red star, with a temperature of around 3,577&lt;sup&gt;o&lt;/sup&gt; Celsius. The V indicates it is a main sequence dwarf star.&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>star</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Wolf 359</string>
+		<key>ImageName</key>
+		<string>NASA_Wolf359</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: M6.5&lt;br /&gt;RADIUS: 111,280 KM&lt;br /&gt;MASS: 1.79x10&lt;sup&gt;29&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Wolf 359&lt;/h1&gt;
+ 
+		&lt;p&gt;Wolf 359 is a red dwarf star, and the third closest star to Earth. Despite being a mere 7.8 light years away, Wolf 359 cannot be seen with the naked eye, and telescopes are required to observe it. Wolf 359&apos;s unusual name comes from German astronomer Max Wolf. When noting stars with high rates of traverse motion in his catalogue, Wolf put down Wolf 359 as the 259&lt;sup&gt;th&lt;/sup&gt; entry, hence the star&apos;s name. Wolf 359 is a rather unique star as it is one of the smallest low mass stars known to mankind. With an effective surface temperature of 2526&lt;sup&gt;o&lt;/sup&gt; Celsius, Wolf 359 is incredibly dim and small. It is not believed to have any companions or debris either&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;No human spacecraft has ever visited Wolf 359, nor plans to do so in the future. The star has no known planets to visit, and is an unlikely destination for space travel should the means to arrive in a timely manner ever arise.&lt;/p&gt;
+
+		&lt;h1&gt;Classification&lt;/h1&gt;
+
+		&lt;p&gt;Wolf 359 bears the spectral type M6.5, and is easily comparable to Proxima Centauri, which has a spectral type M5. The M denotes it is a red star, with surface temperatures below 3227&lt;sup&gt;o&lt;/sup&gt; Celsius.&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>star</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Luyten 726-8</string>
+		<key>ImageName</key>
+		<string>NASA_Luyten</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: 726-8A: M5.5V, 726-8B: M6V&lt;br /&gt;RADIUS: 726-8A: 97,370 KM, 726-8B: 97,370 KM&lt;br /&gt;MASS: 726-8A: 2.03x10&lt;sup&gt;29&lt;/sup&gt; KG, 726-8B: 1.99x10&lt;sup&gt;29&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Luyten 726-8&lt;/h1&gt;
+ 
+		&lt;p&gt;Luyten 726-8 is a binary star system, and the fourth closest star system to the Sun. At a distance of 8.7 light years from Earth, neither star can be seen with the naked eye. Luyten 726-8 was discovered and named after Dutch astronomer Willem Jacob Luyten, and both 726-8A and 726-8B are considered to be flare stars due to their unusually violent activity. &lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;No human spacecraft has ever visited the Luyten 726-8 system. With no confirmed planets, it is an unlikely destination for exploration. Additionally, the violent nature of the stars would pose a great danger to life in close proximity. In fact, were Earth to orbit near the Luyten 726-8 system, the flare activity would likely wipe out life on the planet.&lt;/p&gt;
+
+		&lt;h1&gt;Classification&lt;/h1&gt;
+
+		&lt;p&gt;Both stars carry the M spectral classification, as they are red stars with surface temperatures lower than 3227&lt;sup&gt;o&lt;/sup&gt; Celsius. The V denotes that the stars are main sequence dwarves.&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>star</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Sirius</string>
+		<key>ImageName</key>
+		<string>NASA_Sirius</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;TYPE: Sirius A: A1V, Sirius B: DA2&lt;br /&gt;RADIUS: Sirius A: 1,182,300 KM, Sirius B: 5842 KM&lt;br /&gt;MASS: Sirius A: 4.02x10&lt;sup&gt;30&lt;/sup&gt; KG, Sirius B: 1.95x10&lt;sup&gt;30&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Sirius&lt;/h1&gt;
+ 
+		&lt;p&gt;Sirius, like many other close stars to Earth, is not in fact a single star, but a system of two stars. Sirius A is the largest and brightest of the two, and is 25 times more luminous than our own Sun. Despite not being the closest star to our Solar System at 8.6 light years away, it is the brightest in our night sky. Its companion star however, Sirius B, was not discovered until 1944 by German astronomer Friedrich Bessel. Both Sirius A and B are white stars, though much different in size. Sirius A is about twice as massive as the Sun, while Sirius B is only about the size of Earth. Despite being an incredibly small star, Sirius B is immensely dense, and has a mass about equal to that of the Sun. The Sirius star system has often been the subject of poetry and science fiction in modern times. Radio stations, ships, and even some national flags bear references to it. In ancient times, Sirius was used for navigation, and carried religious significance. It is visible from almost anywhere on Earth, and has been mentioned as far back as ancient Egypt.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;No human spacecraft has ever visited the Sirius system, and no plans are in motion to do so in the foreseeable future. &lt;/p&gt;
+
+		&lt;h1&gt;Classification&lt;/h1&gt;
+
+		&lt;p&gt;Sirius A is an A1V class star. The A means it has a surface temperature of 7227&lt;sup&gt;o&lt;/sup&gt; Celsius to 9727&lt;sup&gt;o&lt;/sup&gt; Celsius, and is a white star. Sirius B is a DA2 star. The D indicates it is a dwarf, and the A indicates a surface temperature of 7227&lt;sup&gt;o&lt;/sup&gt; Celsius to 9727&lt;sup&gt;o&lt;/sup&gt; Celsius.&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+</array>
+</plist>

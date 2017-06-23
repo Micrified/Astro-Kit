@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>The Moon</string>
+		<key>ImageName</key>
+		<string>NASA_Moon</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Earth&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 1735 KM&lt;br /&gt;MASS: 7.348x10&lt;sup&gt;22&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About The Moon&lt;/h1&gt;
+ 
+		&lt;p&gt;The Moon is Earth&apos;s only natural satellite, and orbits at a distance of 384,000 KM. Barren and cratered, the Moon has a very weak atmosphere and cannot sustain important liquids like water on its surface. The Moon completes an orbit every 27 days, and is tidally locked to always present the same face towards the Earth. Gravitational acceleration on the Moon is very low, only 1.642m/s&lt;sup&gt;2&lt;/sup&gt;. Its thin exosphere means that surface temperatures are very extreme, with a range of -233&lt;sup&gt;o&lt;/sup&gt; Celsius to 123&lt;sup&gt;o&lt;/sup&gt; Celsius. The Moon is mostly composed of the following elements (By weight):
+			&lt;ul&gt;
+				&lt;li&gt;43 % Oxygen&lt;/li&gt;
+				&lt;li&gt;20 % Silicon&lt;/li&gt;
+				&lt;li&gt;19 % Magnesium&lt;/li&gt;
+				&lt;li&gt;10 % Iron&lt;/li&gt;
+				&lt;li&gt;3 % Calcium&lt;/li&gt;
+				&lt;li&gt;3 % Aluminum&lt;/li&gt;
+				&lt;li&gt;0.42 % Chromium&lt;/li&gt;
+				&lt;li&gt;0.18 % Titanium&lt;/li&gt;
+				&lt;li&gt;0.12 % Manganese&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;The Moon has been a major focus for space exploration, and host to many probes, satellites, and man crewed missions to its surface. The first spacecraft to land on the Moon was the Soviet Luna 2 Impactor. It successfully impacted on the Moon&apos;s surface on the 14&lt;sup&gt;th&lt;/sup&gt; of September, 1959. The first manned mission to the Moon was successfully conducted by the United States of America, with a total of six manned missions overall. Since the initial missions by the Soviet Union and the United States, missions have been conducted by the European Space Agency, Japan, India, and the People&apos;s Republic of China. 
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;The Moon does not support life, and is not believed to have hosted it at any time in its past. The extreme temperatures and lack of atmosphere make it inhospitable to life.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Ganymede</string>
+		<key>ImageName</key>
+		<string>NASA_Ganymede</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Jupiter&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 2631 KM&lt;br /&gt;MASS: 1.482x10&lt;sup&gt;23&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Ganymede&lt;/h1&gt;
+ 
+		&lt;p&gt;Ganymede is larger than Mercury, and the largest moon in the Solar System. Discovered by Galileo Galilei on the 7&lt;sup&gt;th&lt;/sup&gt; of January, 1810, Ganymede would be considered a planet were it not orbiting Jupiter. Underneath the rock and ice that layer its surface, Ganymede has an iron core which generates a magnetic field within Jupiter&apos;s colossal magnetosphere. Ganymede&apos;s gravitational acceleration is still somewhat small despite its size, only 1.43m/s&lt;sup&gt;2&lt;/sup&gt;. Ganymede is an old moon, at about 4.5 billion years. It possesses a thin oxygen atmosphere, and orbits at a distance of 1,070,000 KM from Jupiter.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Ganymede has been visited by Pioneer 10, and the probes of the Voyager missions. No other spacecraft have visited Ganymede since, though the European Space Agency&apos;s Jupiter Icy Moon Explorer is due to observe Ganymede after it launches, in 2022. 
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Though Ganymede does have a thin oxygen atmosphere, it cannot support life, so none is believed to exist on it. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Europa</string>
+		<key>ImageName</key>
+		<string>NASA_Europa</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Jupiter&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 1560 KM&lt;br /&gt;MASS: 4.799x10&lt;sup&gt;22&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Europa&lt;/h1&gt;
+ 
+		&lt;p&gt;Europa is Jupiter&apos;s sixth moon, and is also the sixth largest moon in our Solar System. Surface gravity is 1.315m/s&lt;sup&gt;2&lt;/sup&gt;, and its surface temperature is a chilly -160&lt;sup&gt;o&lt;/sup&gt; Celsius. Slighly smaller than our own Moon, Europa is a unique and promising location for human exploration. It has an icy crust largely composed of water, and beneath it, scientists speculate a liquid water ocean exists. Under the ocean is Europa&apos;s nickel and iron core. While it does not produce a magnetic field itself, Jupiter induces one though the influence of its massive magnetosphere.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Exploration of Europa began with the American Pioneer 10 and 11 spacecraft in the early years of 1970. Two probes from the Voyager mission later passed in 1979. Between 1995 and 2003, the Galileo space probe visited the moon. The New Horizons spacecraft has also observed Europa as it passed by on its way to Pluto.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;No life is known to exist on Europa, though human exploration has been sparse. However, Europa is still a promising location for future exploration. Its exposure to strong tidal forces from Jupiter are believed to produce heat, and even geological activity under its surface. Speculated to be responsible for the long cracks across Europa&apos;s icy crust, the existence of strong tidal forces opens the potential for energy under the surface of the ocean. Geologically active hydrothermal zones on Earth&apos;s ocean floor are known to be rich with life, nutrients, and energy. This makes the potential for life on Europa much more promising. The salt water composition of its ocean meets the minimum requirements for life as we know it. The existence of the ocean is supported by Europa&apos;s unusually smooth icy shell, and a lack of craters that would have remained were the surface solid. Water vapor plumes were also detected by the Hubble Space Telescope in 2013.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Io</string>
+		<key>ImageName</key>
+		<string>NASA_Io</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Jupiter&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 1821 KM&lt;br /&gt;MASS: 8.932x10&lt;sup&gt;23&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Io&lt;/h1&gt;
+ 
+		&lt;p&gt;Io is Jupiter&apos;s fifth moon, and the third largest Galilean moon. Discovered by Galileo Galilei in 1610, it is one of the innermost four Galilean moons of Jupiter. Io is the most volcanically active body in the Solar System. Due to its proximity to Jupiter, Io experiences extreme tidal forces from its parent planet. In fact, the solid crust is pulled about 100 meters towards Jupiter. These strong forces induce immense heat and geological activity on Io, which result in volcanoes pushing plumes of sulfur and sulfur dioxide high above the moon&apos;s surface. Surface gravity on Io is 1.80m/s&lt;sup&gt;2&lt;/sup&gt;.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Io has been visited by the Pioneer, Voyager, and Galileo spacecraft. The Pluto bound New Horizons probe has also encountered Io from a distance. The European Space Agency and National Aeronautics and Space Administration intend to dispatch more missions to Io in the future.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Io is not believed to sustain any life, or support an environment with conditions to sustain it.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Callisto</string>
+		<key>ImageName</key>
+		<string>NASA_Callisto</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Jupiter&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 2410 KM&lt;br /&gt;MASS: 1.076x10&lt;sup&gt;23&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Callisto&lt;/h1&gt;
+ 
+		&lt;p&gt;Callisto is the third largest moon in the Solar System, and is about the size of Mercury. Discovered in 1610 by Galileo Galilei, Callisto is one of the oldest untouched objects in the Solar System. At an age of about 4.5 billion years old, Callisto&apos;s surface is the most heavily cratered of all objects in the Solar System. Because it lacks significant geological activity, craters and other impacts have not been erased over time. The mean surface temperature on Callisto is a cold -139&lt;sup&gt;o&lt;/sup&gt; Celsius. And it possesses only a thin carbon dioxide atmosphere. Callisto has only undergone partial differentiation, which means it has not shifted itself into a series of layers like other terrestrial planets do. Because of this, Callisto only has a partially rocky core.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;The Pioneer 10 and 11 spacecraft were the first to observe Callisto. These were followed by the Galileo Orbiter and Cassini spacecraft on their route to Saturn. The New Horizons probe also observed Callisto on its way to Pluto. The European Space Agency&apos;s Jupiter Icy Moon Explorer is the next probe expected to approach Callisto.
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;No life is believed to exist on Callisto, though it is considered a suitable place for exploration due to low levels of radiation on the moon.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Titan</string>
+		<key>ImageName</key>
+		<string>NASA_Titan</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Saturn&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 2475 KM&lt;br /&gt;MASS: 1.346x10&lt;sup&gt;23&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Titan&lt;/h1&gt;
+ 
+		&lt;p&gt;Titan is Saturn&apos;s largest moon, and the second largest in the Solar System after Jupiter&apos;s Ganymede. Discovered by Christiaan Huygens in 1644, Titan is the only moon in the Solar System known to have clouds and a thick planet-like atmosphere. At a distance of 1,221,900 KM from Saturn, Titan is tidally locked like many other moons. Its surface gravity is 1.35m/s&lt;sup&gt;2&lt;/sup&gt;, and its atmosphere is composed mainly of nitrogen and methane. Titan is an Earth-like world, with lakes, seas, and flowing rivers. However, because surface temperatures on Titan are a frigid -175&lt;sup&gt;o&lt;/sup&gt; Celsius, the liquid is mostly methane and ethane instead of water. 
+		&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Titan has been visited by the Voyager II, Cassini, and Huygens Probe. 
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;No life is believed to exist on Titan.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Rhea</string>
+		<key>ImageName</key>
+		<string>NASA_Rhea</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Saturn&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 264 KM&lt;br /&gt;MASS: 2.307x10&lt;sup&gt;21&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Rhea&lt;/h1&gt;
+ 
+		&lt;p&gt;Rhea is Saturn&apos;s second largest moon, and orbits at a distance of 527,040 KM. Made mostly of ice and rock, Rhea has no atmosphere and its surface temperatures range from -175&lt;sup&gt;o&lt;/sup&gt; Celsius to -120&lt;sup&gt;o&lt;/sup&gt; Celsius. Rhea does not receive enough tidal attraction to induce internal heating, so it remains rather geologically inactive. This results in impacts and pockmarks remaining untouched on its surface. Rhea&apos;s small size means that surface gravity is rather small, at only 0.264m/s&lt;sup&gt;2&lt;/sup&gt;.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Rhea has been observed by both the Voyager I and Voyager II spacecraft. It has also been observed by the Cassini spacecraft. No other plans are in place to re-visit it anytime soon. 
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Rhea cannot support life, as it lacks an atmosphere and sufficient environmental conditions to do so.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Dione</string>
+		<key>ImageName</key>
+		<string>NASA_Dione</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Saturn&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 562 KM&lt;br /&gt;MASS: 1.096x10&lt;sup&gt;21&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Dione&lt;/h1&gt;
+ 
+		&lt;p&gt;Dione is a heavily cratered moon that orbits Saturn at a distance of about 377,500 KM. Made mostly of ice and silicate rock, Dione is a cold, desolate moon with temperatures averaging at about -186&lt;sup&gt;o&lt;/sup&gt; Celsius. Gravitational acceleration is also rather weak, at 1.48m/s&lt;sup&gt;2&lt;/sup&gt;. Dione does not have any significant atmosphere. The moon was discovered by Giovanni Cassini on the 21&lt;sup&gt;st&lt;/sup&gt; of March 1684.&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Dione has been visited and imaged by the Voyager and Cassini spacecraft. Cassini completed another low altitude pass over Dione on the 16&lt;sup&gt;th&lt;/sup&gt; of June, 2015, at only 516 KM. 
+
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;No life is believed to exist on Dione, due to its inadequate atmosphere and extreme temperatures.
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Titania</string>
+		<key>ImageName</key>
+		<string>NASA_Titania</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Uranus&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 789 KM&lt;br /&gt;MASS: 3.420x10&lt;sup&gt;21&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Titania&lt;/h1&gt;
+ 
+		&lt;p&gt;Titania is Uranus&apos;s largest moon, and is not to be confused with Titan (Saturn&apos;s largest moon). Discovered by W. Herschel in 1787, Titania is a barren moon, riddled with fault valleys and troughs. Although it looks inactive, Titania is thought to have some geological activity due to reflective material deposits found along its sun facing valley walls. Surface acceleration on Titania is low, only 0.367m/s&lt;sup&gt;2&lt;/sup&gt;. Composed mostly of rock and ice, Titania&apos;s surface temperature is -203&lt;sup&gt;o&lt;/sup&gt; Celsius, and the moon is thought to possess a thin carbon dioxide atmosphere. 
+		&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Voyager II is the only probe to have explored Titania. No other missions are planned to visit it anytime soon. 
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;No life is believed to exist on Titania. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Oberon</string>
+		<key>ImageName</key>
+		<string>NASA_Oberon</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Uranus&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 761 KM&lt;br /&gt;MASS: 3.014x10&lt;sup&gt;21&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Oberon&lt;/h1&gt;
+ 
+		&lt;p&gt;Oberon is the farthest of Uranus&apos;s five major moons. Orbiting at a distance of 584,000 KM, Oberon is tidally locked so that it always presents the same face towards Uranus. It is mostly composed of water-ice, and other dense non-ice components. Beneath an icy shell is believed to be a small rocky core. Surface gravity on Oberon is extremely small, only 0.35m/s&lt;sup&gt;2&lt;/sup&gt;. Like most icy moons, Oberon has little to no atmosphere, and an extremely cold average temperature of  -193&lt;sup&gt;o&lt;/sup&gt; Celsius. Oberon is the reddest of all Uranian moons. It is believed to have obtained the red hue from material accreting across its surface, though the origin is not known.  &lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Oberon has been observed by the Voyager II space probe. No other visits are planned in the foreseeable future.
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Oberon&apos;s extreme cold and lack of an atmosphere makes it an unlikely candidate for life. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>moon</string>
+		<key>Language</key>
+		<string>en</string>
+		<key>Name</key>
+		<string>Triton</string>
+		<key>ImageName</key>
+		<string>NASA_Triton</string>
+		<key>Descriptor</key>
+		<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;style&gt;
+			html, body {
+				padding: 0;
+				margin: 0;
+			}
+
+			body {
+				font-family: HelveticaNeue;
+				color: rgba( 42, 44, 43, 1.0);
+				font-size: 15px;
+				padding: 20px;
+				line-height: 1.4em;
+			}
+
+			h1 {
+				font-size: 15px;
+				text-transform: uppercase;
+
+				margin: 0;
+				margin-bottom: 10px;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+ 
+	&lt;body&gt;
+		&lt;h1&gt;Quick Stats&lt;/h1&gt;
+ 
+		&lt;p&gt;PARENT: Neptune&lt;br /&gt;TYPE: Terrestrial&lt;br /&gt;RADIUS: 1352 KM&lt;br /&gt;MASS: 2.14x10&lt;sup&gt;22&lt;/sup&gt; KG&lt;/p&gt;
+ 
+		&lt;h1&gt;About Triton&lt;/h1&gt;
+ 
+		&lt;p&gt;Triton is Neptune&apos;s largest moon, and the only moon in the Solar System to orbit in a direction opposite to the rotation of its parent plane. With over half its surface covered in frozen nitrogen, carbon dioxide, and water, Triton is an icy moon with surface temperatures of -237&lt;sup&gt;o&lt;/sup&gt; Celsius. Triton is estimated to be up to 45% water, with the remaining 55% being rock. Triton possesses a weak nitrogen atmosphere, and is believed to be geologically active due to the lack of impact craters and physical evidence of melting on its surface. Gravitational acceleration on Triton&apos;s surface is 0.779m/s&lt;sup&gt;2&lt;/sup&gt;.  
+		&lt;/p&gt;
+
+		&lt;h1&gt;Exploration&lt;/h1&gt;
+
+		&lt;p&gt;Voyager II is the only spacecraft to have ever closely observed Triton. No mission plans to visit it anytime soon.
+		&lt;/p&gt;
+
+		&lt;h1&gt;Life&lt;/h1&gt;
+
+		&lt;p&gt;Triton&apos;s geological activity has led some to speculate that internal heat may produce a small subterranean ocean. Though this might suggest the possibility of life, Triton remains an extremely hostile and unlikely environment to find it. 
+	&lt;/p&gt;
+
+	&lt;/body&gt;
+&lt;/html&gt;</string>
+	</dict>
+</array>
+</plist>
