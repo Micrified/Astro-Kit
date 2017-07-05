@@ -12,4 +12,6 @@ Some screenshots and a trailer remain:
 
 [Trailer](https://vimeo.com/134171264) (short to meet 30s App store limitation of the time)
 
+[Another gameplay clip](https://youtu.be/TOM56rzbDkA)
+
 **Current State:** I cannot guarantee that this App will work if compiled and deployed to the devices of others right now. I can confirm it runs at this time on a device running iOS 10.3.2, although some animations are broken and images glitchy in the simulator. 
